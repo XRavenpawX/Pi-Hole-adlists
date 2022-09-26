@@ -1,6 +1,6 @@
 # Cookie Clicker adlist
 # Still a work in progrees
-# version 9/26/22
+# version 9/26/22 edt 2
 0.0.0.0 playsaurusstats.com
-0.0.0.0 www.aq.com
+0.0.0.0 aq.com
 # end list

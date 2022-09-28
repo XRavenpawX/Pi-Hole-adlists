@@ -1,6 +1,12 @@
 # Cookie Clicker adlist
 # Still a work in progrees
-# version 9/26/22 edt 4
-0.0.0.0 playsaurusstats.com
-0.0.0.0 www.aq.com
+# version 09/28/2022 edt 1
+adclick.g.doubleclick.net
+g.doubleclick.net
+doubleclick.net
+www.ufreegames.com
+ufreegames.com
+playsaurusstats.com
+www.aq.com
+aq.com
 # end list

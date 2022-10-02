@@ -1,3 +1,7 @@
 # Crunchyroll Ad list
-# Version 10/2/2022 edt 0
+# Version 10/2/2022 edt 1
 # this list is still a work in progress
+5fd74.v.fwmrm.net
+https://5fd74.v.fwmrm.net
+ad.doubleclick.net
+# End list

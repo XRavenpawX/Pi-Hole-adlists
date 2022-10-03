@@ -1,0 +1,3 @@
+#YouTube adlist
+# An adlist to block YouTube ads,Especialy political ads.
+# Version 10/3/2022

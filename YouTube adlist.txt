@@ -1,3 +1,9 @@
 #YouTube adlist
 # An adlist to block YouTube ads,Especialy political ads.
-# Version 10/3/2022
+# Version 10/3/2022 edt 1
+www.googleadservices.com
+jonesroadbeauty.com
+UDSALoans.com
+fandango.com
+saveyourbreathnh.org
+googleads.g.doubleclick.net

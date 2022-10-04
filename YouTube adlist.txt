@@ -1,6 +1,6 @@
 #YouTube adlist
 # An adlist to block YouTube ads,Especialy political ads.
-# Version 10/3/2022 edt 2 @ 11:36 am
+# Version 10/3/2022 edt 3 @ 12:14 pm
 jonesroadbeauty.com
 UDSALoans.com
 fandango.com
@@ -12,3 +12,4 @@ www.gramarly.com
 mous.co
 clickcease.com
 sweetwater.com
+Adsense.google.com

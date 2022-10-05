@@ -1,10 +1,12 @@
 # Cookie Clicker adlist
 # An adlist for bloking ads in cookie clicker
-# version 10/4/2022 edt 1 @11:50
+# version 10/5/2022 edt 1 @12:59 pm
 adclick.g.doubleclick.net
 g.doubleclick.net
 doubleclick.net
 ufreegames.com
 playsaurusstats.com
 www.aq.com
+pagead2.googlesyndication.com
+connect.facebook.net
 # end list

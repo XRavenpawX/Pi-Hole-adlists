@@ -13,3 +13,6 @@ mous.co
 clickcease.com
 sweetwater.com
 Adsense.google.com
+ade.googlesyndication.com
+googleads.g.doubleclick.net
+yt3.ggpht.com

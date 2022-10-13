@@ -9,4 +9,5 @@ playsaurusstats.com
 www.aq.com
 pagead2.googlesyndication.com
 connect.facebook.net
+adservice.google.com
 # end list

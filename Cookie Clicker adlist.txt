@@ -1,6 +1,6 @@
 # Cookie Clicker adlist
 # An adlist for bloking ads in cookie clicker
-# version 10/5/2022 edt 1 @12:59 pm
+# version 10/13/2022 edt 2 @ 7:22 pm
 adclick.g.doubleclick.net
 g.doubleclick.net
 doubleclick.net
